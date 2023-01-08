@@ -1,0 +1,24 @@
+﻿Get book [get] 
+create book [post]
+order book [post]
+download book [get]
+delete book [post]
+
+
+Book-
+{
+  ISBN : 1,
+  BookName : "Gandhi Autobiography",
+  Author : "Gandhi",
+  Price : 600,
+  Quantity : 10	
+}
+
+Order-
+{
+  OrderID : 1,
+  ISBN : 1,
+  Quantity : 3
+  orderedBy : "ABC"
+  OrderDt : "03-01-2023"
+}
