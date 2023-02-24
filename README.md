@@ -1,2 +1,2 @@
 # bookportal
-Backend for book app
+Backend APIs for book app

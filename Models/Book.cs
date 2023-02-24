@@ -1,4 +1,6 @@
-﻿namespace BookAPI.Models
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace BookAPI.Models
 {
     public class Book
     {
